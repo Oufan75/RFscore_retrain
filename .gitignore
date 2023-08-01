@@ -2,7 +2,6 @@
 *.pkl
 *.csv
 RF_ucbsplit.ipynb
-RF-Score_scripts/
 pdbbind_v2007/
 pdbbind_v2007.tar.gz
 *.zip
